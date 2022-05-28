@@ -6,7 +6,7 @@ Nice to meet you here!
 
 My name is Andrew. I am a Software Engineer (.NET), also write on Python.
 
-My Linkedn:
+My Linkedn: https://www.linkedin.com/in/andrew-mitko-780571180/
 
 My CV: https://my.indeed.com/p/andreym-7jqchaq
 
