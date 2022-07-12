@@ -1,0 +1,13 @@
+Here are the results of the FuturePricePrediction algorithm on some liquid stocks/futures.
+I made a comparative analysis of the FuturePricePrediction algorithm (FPP) with two trading strategies: 
+naive (Buy&Hold) and more complex (creating forecast using ARIMA https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
+
+Trade period = 200 days. Quantity per trade = 1
+
+1. TSLA (Tesla)
+
+Method	  |   profit/loss
+__________|_______________
+Buy&Hold  |   -226,97
+ARIMA     |   254,11
+FPP       |   595,18
