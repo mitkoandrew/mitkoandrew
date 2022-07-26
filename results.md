@@ -32,5 +32,19 @@ Average profit/loss per deal: 3
 
 ![image](https://user-images.githubusercontent.com/41163875/180700534-663b47d3-0a04-46c6-b7bb-1aa478232d2d.png)
 
+![image](https://user-images.githubusercontent.com/41163875/181049779-0ddd5e33-17f8-4976-98e8-2a7fb7abae63.png)
 
-![image](https://user-images.githubusercontent.com/41163875/180709772-f5a9c46f-4889-4359-ba9d-97b8facefa51.png)
+## 3. COST (Costco Wholesale Corporation Common Stock)
+Trade period = last 200 days (116 trading days). 
+
+Quantity per trade = 1. 
+
+Amount of deals (using FPP): 66
+
+Average profit/loss per deal: 12.9
+
+![image](https://user-images.githubusercontent.com/41163875/181048865-83850960-2822-4bf7-896e-a979a79b6524.png)
+
+![image](https://user-images.githubusercontent.com/41163875/181049648-0fb58ca5-c33e-44a9-afbe-305c8dbe251e.png)
+
+
