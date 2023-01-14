@@ -22,7 +22,7 @@ At the same time (in my free time) I started my own project, which called Future
 
 # About project
 
-The entire project helps the client make a decision about operations in the stock market: Buy / Sell or do nothing with the selected stock or futures. 
+The entire project helps the client make a decision about operations in the stock market: Buy / Sell or do nothing with the selected futures. 
 It includes three parts:
 
 -Forecast algorythm
@@ -33,9 +33,30 @@ It includes three parts:
 
 The first two parts were implemented in .NET, the third part - in Python.
 
+
+# Financial modeling
+
+Trading capital = $10.000
+
+Reserve capital = $10.000
+
+Trading period: 200 days (6 months)
+
+For trading, we used 6 most volatile futures: TSLA (Tesla),	NVDA (NVidia),	GOOG (Google/Alphabet),	MSFT (Microsoft),	ES (E-mini S&P 500),	COST (Costco)
+
+Margin requirements: 10% of the traded contract value. Therefore, e.g. we could use in trading 100 TSLA, 100 NVDA, 100 GOOG, 100 MSFT, 100 ES, 10 COST.
+
+Results (after 200 days):
+
+![image](https://user-images.githubusercontent.com/41163875/212473016-b2930e92-9f28-4742-ae45-1db3d4539946.png)
+
+Details:
+
 ## 1. Input Data
 
-The list of futures for the forecast is loaded from the server of Moscow Stock Exchange (MOEX):
+The list of futures for the forecast is loaded from the server of Moscow 
+
+Exchange (MOEX):
 http://iss.moex.com/iss/engines/futures/markets/forts/securities.xml
 
 To exclude the least traded futures, a condition is added:
