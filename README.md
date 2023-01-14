@@ -50,7 +50,7 @@ Results (after 200 days):
 
 ![image](https://user-images.githubusercontent.com/41163875/212473016-b2930e92-9f28-4742-ae45-1db3d4539946.png)
 
-Details:
+Details: https://github.com/mitkoandrew/mitkoandrew/blob/main/full_review.xlsx
 
 ## 1. Input Data
 
